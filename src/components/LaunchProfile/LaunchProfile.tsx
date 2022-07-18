@@ -1,4 +1,4 @@
-import './styles.css';
+import './LaunchProfile.styles.css';
 
 import { LaunchProfileQuery } from '../../generated/graphql';
 

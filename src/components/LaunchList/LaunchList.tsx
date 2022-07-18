@@ -1,4 +1,4 @@
-import './styles.css';
+import './LaunchList.styles.css';
 
 import { LaunchListQuery } from '../../generated/graphql';
 

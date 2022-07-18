@@ -2,8 +2,8 @@ import './App.css';
 
 import { useCallback, useState } from 'react';
 
-import LaunchList from './components/LaunchList';
-import LaunchProfile from './components/LaunchProfile';
+import LaunchList from './components/LaunchList/LaunchListContainer';
+import LaunchProfile from './components/LaunchProfile/LaunchProfileContainer';
 
 const App = () => {
   const [id, setId] = useState(42);
